@@ -39,7 +39,18 @@
   - frontend:
     npm run dev
    ```
+<h2 align="center">Links de estudo 🤓</h2>
 
+   ```
+   - Documentação SvelteKit
+      https://kit.svelte.dev/docs/introduction
+
+  - Documentação TypeScript
+    https://www.typescriptlang.org/docs/
+
+  - Documentação Prisma ORM
+     https://www.prisma.io/docs
+   ```
 
 <h2 align="center">Tecnologias 💻</h2>
    
