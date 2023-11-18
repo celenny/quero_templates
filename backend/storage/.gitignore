@@ -1,0 +1,10 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!cadastros
+!marketing
+!profile_pics
+!qqtech
+!recursos_humanos
+!vendas
