@@ -3,7 +3,7 @@ import { fail } from '@sveltejs/kit';
 import type { Actions } from './$types';
 
 export const actions = {
-	default: async ({ request }) => {
+	default: async ({ request, fetch }) => {
     const data = await request.formData()
 
     const form = convertFormToJson(data);
