@@ -78,7 +78,7 @@
               />
             </svg>
 
-            <span class="mx-2 text-sm font-medium">Arquivos Enviados</span>
+            <span class="mx-2 text-sm font-medium">Dashboard</span>
           </a>
 
           <a
