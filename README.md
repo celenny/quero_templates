@@ -15,6 +15,12 @@
 *Importante:*
 *Verifique se já possui o [Node.js](https://nodejs.org) e o [Python](https://www.python.org/) instalado.*
 
+<h2 align="center">Layout 🎨</h2>
+
+<p align="center">
+	<a href="https://www.figma.com/file/1PFP6myV8kQPQ3agJG1h2z/QueroTemplates?type=design&node-id=0-1&mode=design&t=ZVpPqLanYkRAN2EG-0">Prototipo do projeto no Figma</a>
+</p>
+
 <h2 align="center">Como Usar 🤔</h2>
 
    ```bash
@@ -46,10 +52,14 @@
       https://kit.svelte.dev/docs/introduction
 
   - Documentação TypeScript
-    https://www.typescriptlang.org/docs/
+     https://www.typescriptlang.org/docs/
 
   - Documentação Prisma ORM
      https://www.prisma.io/docs
+
+  - Meraki UI
+     https://merakiui.com/
+
    ```
 
 <h2 align="center">Tecnologias 💻</h2>
